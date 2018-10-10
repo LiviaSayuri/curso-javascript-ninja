@@ -26,7 +26,6 @@ function adicionaValor() {
 // Invoque a função criada acima.
 adicionaValor();
 
-
 // Qual o retorno da função  (Use comentários de bloco).
 console.log(nova);
 /*Retornou "O valor da variável agora é 10"*/
@@ -54,10 +53,10 @@ console.log(multiplicacaoCompleta(10, 2));
 //Preencha todos os valores corretamente!
 
 // Agora invoque novamente a função criada acima, mas passando todos os três argumentos necessários.
-
+console.log(multiplicacaoCompleta(10, 2,3));
 
 // Qual o resultado da invocação acima  (Use comentários para mostrar o valor retornado).
-console.log(multiplicacaoCompleta(10, 2,3));
+//62
 
 /*
 Crie uma função com as seguintes características:
